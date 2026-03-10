@@ -1,7 +1,7 @@
 Proof of concept, so data, model and backtest architecture is simple.
-- Backtest results are a step function(so vol laundering), limited lookback period, limited combination tested, etc.   
-- Limited linear combinations of factors tested to allow for shorter run time and prevent overfitting.  
-- Tested year by year, so allows out of sample and live testing.  
+- Backtest results are a step function, so vol laundering.   
+- Limited lookback period and linear combinations of factors tested to allow for shorter run time and prevent overfitting.  
+- Allows for walk-forward and live testing.  
 - Allows for (market) beta neutral, dollar neutral, long-only, short-only, etc
  
 # Backtest 

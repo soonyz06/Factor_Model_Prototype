@@ -8,10 +8,10 @@ Proof of concept, so data, model and backtest architecture is simple.
 performance
 ![Long+Short](Factor_Model/backtests/factor_scores0/performance.png)
 
-data
+data 2025
 ![2025R](Factor_Model/backtests/factor_scores0/q1fy25.png)
 
-# Backtest Old
+# Backtest 2
 Long+Short
 ![Long+Short](Factor_Model/backtests/factor_scores100/Long+Short.png)
 
@@ -21,7 +21,6 @@ Long Only
 Long Only2
 ![Long Only](Factor_Model/backtests/factor_scores100/Long-Only2.png)
 
-# Data
-FY2025 Rank
+data 2025
 ![2025R](Factor_Model/backtests/factor_scores100/q1fy25.png)
 

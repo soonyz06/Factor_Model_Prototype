@@ -1,4 +1,4 @@
-Proof of concept, so data, model and backtest architecture is simple.
+Proof of concept, so very small sample size and data, model and backtest architecture is simple.
 - Backtest results are a step function, so vol laundering.   
 - Limited lookback period and linear combinations of factors tested to allow for shorter run time and prevent overfitting.  
 - Allows for walk-forward and live testing.  
